@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2016-1-29: Created by Elad Karako
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by Elad Karako 20160129
+</metadata>
+<defs>
+<font id="Untitled1" horiz-adv-x="1000" >
+  <font-face 
+    font-family="Untitled1"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 5 9 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="106 636 205 660"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+0036-0036"
+  />
+    <missing-glyph />
+    <glyph glyph-name="six" unicode="6" 
+d="M106 636c24.9851 6.93235 53.993 10.0462 81 18l18 6z" />
+  </font>
+</defs></svg>
